@@ -10,6 +10,10 @@ public void Bikeinfo(int cc) {
 public void Bikeinfo(long chnum) {
 	System.out.println("bike chnum is:"+chnum);
 }
+private void Insurance() {
+	System.out.println("Valid till 2021");
+
+}
 public void Bikeinfo(String address,int pincode) {
 	System.out.println("owner address is"+address);
 	System.out.println("owner pincode is"+pincode);
