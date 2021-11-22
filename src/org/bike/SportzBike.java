@@ -14,6 +14,10 @@ public void Bikeinfo(String address,int pincode) {
 	System.out.println("owner address is"+address);
 	System.out.println("owner pincode is"+pincode);
 }
+private void Bike() {
+	System.out.println("Royalenfield");
+
+}
 public void Bikeinfo(int pincode,String address) {
 	System.out.println("owner alternate address is"+address);
 	System.out.println("owner alternate pincode is"+pincode);
